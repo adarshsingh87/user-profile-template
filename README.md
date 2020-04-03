@@ -1,1 +1,1 @@
-# user-profile-template
+# User profile template
